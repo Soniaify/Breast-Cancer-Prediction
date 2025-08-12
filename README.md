@@ -58,9 +58,6 @@ http://127.0.0.1:5000/
 The Logistic Regression and KNN models were trained on all 30 features of the dataset.
 Both models were saved using pickle and loaded into the Flask app for predictions.
 
-## License
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 Scikit-learn
 Flask
